@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d8258c5-2675-40fe-bd61-68b4b7667eda" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app1/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app1/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app1/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/news/[newsId].js" beforeDir="false" afterPath="$PROJECT_DIR$/app1/pages/news/[newsId].js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/news/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app1/pages/news/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app1/pnpm-lock.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/app1/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app1/public/vercel.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app1/styles/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/pages/[meetupId]/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/pages/new-meetup/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/zCode/Learning/By/Max/React/Tutorials/Next/pages/news",
+    "last_opened_file_path": "D:/zCode/Learning/By/Max/React/Tutorials/Next/app2/pages",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,6 +57,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zCode\Learning\By\Max\React\Tutorials\Next\app2\pages" />
+      <recent name="D:\zCode\Learning\By\Max\React\Tutorials\Next\app2" />
       <recent name="D:\zCode\Learning\By\Max\React\Tutorials\Next\pages\news" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -73,7 +69,7 @@
   </component>
   <component name="RunManager">
     <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
+      <package-json value="$PROJECT_DIR$/app2/package.json" />
       <command value="run" />
       <scripts>
         <script value="dev" />
@@ -92,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676678454027</updated>
       <workItem from="1676678455072" duration="1018000" />
-      <workItem from="1676685232960" duration="2979000" />
+      <workItem from="1676685232960" duration="4090000" />
     </task>
     <servers />
   </component>
