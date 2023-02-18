@@ -7,6 +7,7 @@ node_modules/
 .next/
 /.pnp
 .pnp.js
+/app2/next.config.js
 
 # testing
 /coverage
