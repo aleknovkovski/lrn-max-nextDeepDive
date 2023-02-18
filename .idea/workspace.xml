@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d8258c5-2675-40fe-bd61-68b4b7667eda" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/news/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/news/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app1/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app1/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/news/[newsId].js" beforeDir="false" afterPath="$PROJECT_DIR$/app1/pages/news/[newsId].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/news/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app1/pages/news/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app1/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/app1/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app1/public/vercel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app1/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +66,7 @@
       <recent name="D:\zCode\Learning\By\Max\React\Tutorials\Next\pages\news" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\zCode\Learning\By\Max\React\Tutorials\Next\app1" />
       <recent name="D:\zCode\Learning\By\Max\React\Tutorials\Next\pages\news" />
       <recent name="D:\zCode\Learning\By\Max\React\Tutorials\Next\pages\news\index.js" />
     </key>
@@ -82,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676678454027</updated>
       <workItem from="1676678455072" duration="1018000" />
-      <workItem from="1676685232960" duration="2764000" />
+      <workItem from="1676685232960" duration="2979000" />
     </task>
     <servers />
   </component>
